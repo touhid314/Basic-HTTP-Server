@@ -7,7 +7,7 @@ POST
 PUT   
 DELETE  
 
-Status codes supported:
+Status codes supported:  
 200   OK  
 404  NOT FOUND  
 400  BAD REQUEST  
