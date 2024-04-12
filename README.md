@@ -1,7 +1,7 @@
 # Basic-HTTP-Server
 Implementation of a basic HTTP server made with C++.
 
-HTTP Requests supported:
+HTTP Requests supported:  
 GET  
 POST   
 PUT   
